@@ -1,10 +1,10 @@
 import streamlit as st
 import pandas as pd
-from payments_ui import render_payments_tab
-from ledger_ui import render_ledger_tab
-from liquidity_ui import render_liquidity_tab
-from compliance_ui import render_compliance_tab
-from data_manager import initialize_session_state, refresh_liquidity_data
+from ui.payments_ui import render_payments_tab
+from ui.ledger_ui import render_ledger_tab
+from ui.liquidity_ui import render_liquidity_tab
+from ui.compliance_ui import render_compliance_tab
+from src.data_manager import initialize_session_state, refresh_liquidity_data
 
 # Set page config
 st.set_page_config(
