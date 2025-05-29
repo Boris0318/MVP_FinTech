@@ -2,9 +2,9 @@
 
 ## Project Objective
 
-This project is a Minimum Viable Product (MVP) Streamlit application for the StableNet Ledger, designed to showcase its revolutionary approach to cross-border payments. The MVP simulates core functionalities including instantaneous settlements using regulated stablecoins (USDC, EURC) on a permissioned DLT network, a transparent transaction ledger, AI-powered liquidity forecasting and management, and simulated compliance checks.
+This project is a Minimum Viable Product (MVP) Streamlit application for the StableNet Ledger, designed for cross-border payments. The MVP simulates core functionalities including instantaneous settlements using regulated stablecoins (USDC, EURC) on a permissioned DLT network, a transparent transaction ledger, AI-powered liquidity forecasting and management, and simulated compliance checks.
 
-The goal of this MVP is to provide a visually stunning, highly interactive, and intuitive demonstration for investors and stakeholders, highlighting the platform's potential to disrupt the traditional correspondent banking system by emphasizing speed, cost-efficiency, transparency, liquidity optimization, and regulatory compliance.
+The goal of this MVP is to provide a visually, interactive, and intuitive demonstration for investors and stakeholders, highlighting the platform's potential to disrupt the traditional correspondent banking system (CBS) by emphasizing speed, cost-efficiency, transparency, liquidity optimization, and regulatory compliance.
 
 **Note:** All core functionalities in this MVP are simulated and do not connect to real-world DLT networks, stablecoin protocols, or external data feeds.
 
@@ -54,6 +54,7 @@ To set up and run this Streamlit application locally, follow these steps:
     ```bash
     streamlit run app.py
     ```
+6. If you are too lazy for all this setup, try the available public online application I deployed with this code on: https://mvpfintech-boris.streamlit.app/
 
     This will start the application, and it should open in your web browser.
 
@@ -92,9 +93,9 @@ This MVP is primarily aimed at Investors, FinTech Executives, and Payment Servic
 
 ## License
 
-[Optional: Add licensing information here, e.g., MIT, Apache 2.0, etc.]
+No required licenses :)
 
 ## Contact
 
-[Optional: Add contact information or links for further inquiries]
+715195be@eur.nl
 
