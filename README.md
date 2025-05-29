@@ -54,7 +54,7 @@ To set up and run this Streamlit application locally, follow these steps:
     ```bash
     streamlit run app.py
     ```
-6. If you are too lazy for all this setup, try the available public online application I deployed with this code on: https://mvpfintech-boris.streamlit.app/
+6. If you are too lazy for all this setup, try the available public online application I deployed using this code on: https://mvpfintech-boris.streamlit.app/
 
     This will start the application, and it should open in your web browser.
 
