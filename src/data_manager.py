@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import datetime
-from config_base import generate_initial_liquidity_data, generate_new_liquidity_point
+from src.config_base import generate_initial_liquidity_data, generate_new_liquidity_point
 
 def initialize_session_state():
     """Initializes Streamlit session state variables."""
