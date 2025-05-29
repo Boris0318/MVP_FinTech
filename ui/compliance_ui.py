@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import plotly.graph_objects as go
-from config_base import mock_compliance_alerts, dummy_volume_data, dummy_institution_activity
+from src.config_base import mock_compliance_alerts, dummy_volume_data, dummy_institution_activity
 
 def render_compliance_tab():
     """Renders the Compliance Analytics tab UI and handles analysis."""
