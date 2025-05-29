@@ -49,7 +49,7 @@ To set up and run this Streamlit application locally, follow these steps:
     pip install -r requirements.txt
     ```
 
-5.  **Run the Streamlit Application:**
+5.  **Run the Streamlit Application Locally:**
 
     ```bash
     streamlit run app.py
