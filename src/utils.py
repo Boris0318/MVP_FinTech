@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import uuid
 import datetime
-from config_base import FX_RATES # Import FX_RATES from config_base
+from src.config_base import FX_RATES # Import FX_RATES from config_base
 
 def get_fx_rate(sending_stablecoin, receiving_stablecoin):
     """Retrieves the FX rate between two stablecoins."""
