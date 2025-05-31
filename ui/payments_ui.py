@@ -100,13 +100,13 @@ def render_payments_tab():
 
                 st.balloons()
 
-                st.markdown("""
-                ---
-                **Comparison vs. Traditional Correspondent Banking System (CBS):**
+                # st.markdown("""
+                # ---
+                # **Comparison vs. Traditional Correspondent Banking System (CBS):**
 
-                | Feature      | StableNet Ledger          | Traditional CBS          |
-                |--------------|---------------------------|--------------------------|
-                | Speed        | Instant                   | 2-5 Days                 |
-                | Cost         | Very Low (e.g., 0.01%)    | High (e.g., 30-50 USD)   |
-                | Transparency | Full, Immutable Ledger    | Limited Visibility       |
-                """) 
+                # | Feature      | StableNet Ledger          | Traditional CBS          |
+                # |--------------|---------------------------|--------------------------|
+                # | Speed        | Instant                   | 2-5 Days                 |
+                # | Cost         | Very Low (e.g., 0.01%)    | High (e.g., 30-50 USD)   |
+                # | Transparency | Full, Immutable Ledger    | Limited Visibility       |
+                # """) 
