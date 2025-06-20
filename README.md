@@ -56,7 +56,6 @@ To set up and run this Streamlit application locally, follow these steps:
     ```
 6. If you are too lazy for all this setup, try the available public online application I deployed using this code on: https://mvpfintech-boris.streamlit.app/
 
-    This will start the application, and it should open in your web browser.
    **Note:** The app might be on a sleep state, to wake it up press on the "Yes, get this app back up!" button to test the app. This will take around a minute
 
 ## Project Structure
